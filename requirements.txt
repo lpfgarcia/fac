@@ -1,0 +1,13 @@
+deep_translator
+hiclass==4.10.0
+jupyter
+langchain-core
+langchain-community
+matplotlib
+nltk
+numpy
+openai==1.30.5
+openpyxl
+pandas
+seaborn
+tqdm
